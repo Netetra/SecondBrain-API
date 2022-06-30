@@ -1,0 +1,2 @@
+# SecondBrain-API
+SecondBrainのAPI
